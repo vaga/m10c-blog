@@ -1,0 +1,14 @@
+doctype xml
+rss(version='2.0', xmlns:atom='http://www.w3.org/2005/Atom')
+    channel
+        title Mon blog // vaga.io
+        link= url
+        description= description
+        atom:link(href=url + '/rss.xml', rel='self', type='application/rss+xml')
+        each post in posts
+            item
+                title= post.title
+                link= post.url
+                description!= '<![CDATA[' + post.description + ']]>'
+                pubDate= post.date.toUTCString()
+                guid= url + post.url

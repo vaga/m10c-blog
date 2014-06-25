@@ -1,0 +1,10 @@
+extends ../layout
+
+block content
+    ul.list-posts
+        - each post in posts
+            li
+                time(datetime=post.date.getFullYear() + '-' + (post.date.getMonth() + 1) + '-' + post.date.getDate())
+                    = post.date.getDate() + '.' + (post.date.getMonth() + 1) + '.' + post.date.getFullYear()
+                a(href=post.url)
+                    = post.title
