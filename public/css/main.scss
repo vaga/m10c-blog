@@ -23,10 +23,10 @@ body {
 a {
     color: #D91E18;
     text-decoration: none;
-    -webkit-transition: all 1s;
-       -moz-transition: all 1s;
-         -o-transition: all 1s;
-            transition: all 1s;
+    -webkit-transition: all 0.8s;
+       -moz-transition: all 0.8s;
+         -o-transition: all 0.8s;
+            transition: all 0.8s;
 
     &:hover {
         color: #22313F;
@@ -63,6 +63,12 @@ time {
     p {
         font-size: 1.4em;
         margin-top: 1em;
+    }
+    a {
+        opacity: 0.7;
+        &:hover {
+            opacity: 1;
+        }
     }
 }
 
