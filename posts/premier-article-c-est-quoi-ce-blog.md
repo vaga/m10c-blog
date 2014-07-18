@@ -18,7 +18,7 @@ Je me lance donc à la recherche de blog en NodeJS et j'en trouve une montagne (
 Après cette recherche, je savais ce que je voulais : Des articles écrits en Markdown et les publier grâce à Git.
 Cela existe déjà mais sans intérêt pour moi qui voulait écrire du Javascript et apprendre la base de NodeJS. J'ai donc fait mon propre système.
 
-Le projet est sur mon Github : http://github.com/Vagaweb/m10c-blog
+Le projet est sur mon Github : http://github.com/Vaga/m10c-blog
 
 ## La publication d'un article
 
