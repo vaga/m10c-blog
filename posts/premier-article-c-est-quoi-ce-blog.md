@@ -1,7 +1,7 @@
 {{{
     "title"         : "Le premier article, c'est quoi ce blog ?",
     "date"          : "07-02-2014",
-    "tags"          : ["bienvenue", "nodejs", "nginx"]
+    "tags"          : ["bienvenue", "nodejs", "nginx", "web"]
 }}}
 
 Depuis 2 ou 3 ans, j'ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.
