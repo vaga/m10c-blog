@@ -74,6 +74,6 @@ J'ai réussi à faire ce que je voulais le plus simplement possible et je suis c
 
 C'est la fin du premier article.
 Il manque certainement des explications pour qu'un néophyte comprenne totalement l'article.
-N’hésitez pas à me contacter pour me donner votre avis : [@Vagaweb](http://twitter.com/Vagaweb)
+N’hésitez pas à me contacter pour me donner votre avis : [@vaga_io](http://twitter.com/vaga_io)
 
 *Fabien Casters*
