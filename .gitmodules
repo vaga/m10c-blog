@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:vaga/vaga.github.io.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = git@github.com:vaga/hugo-theme-m10c.git

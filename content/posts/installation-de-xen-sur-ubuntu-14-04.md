@@ -1,8 +1,9 @@
-{{{
-    "title"         : "Installation de Xen sur Ubuntu 14.04",
-    "date"          : "07-18-2014",
-    "tags"          : ["xen", "ubuntu", "sysadmin"]
-}}}
+---
+title: "Installation de Xen sur Ubuntu 14.04"
+description: "Installation et configuration de Xen sur Ubuntu 14.04"
+date: "2014-07-18"
+tags: ["xen", "ubuntu", "sysadmin"]
+---
 
 Depuis 3 mois, avec un ami, nous louons un serveur de la gamme IP chez SoYouStart.
 C'est un serveur de 4 coeurs, 48 Go de RAM et 2 To de disc durs.
@@ -205,3 +206,4 @@ Cette idée vient de Maxime et c'est une très bonne idée. On ne se pose plus l
 [Le twitter de Maxime](http://twitter.com/Max_Wayt)
 
 *Fabien Casters*
+
