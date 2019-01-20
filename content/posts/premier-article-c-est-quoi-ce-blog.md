@@ -31,7 +31,6 @@ Aujourd'hui, pour faire un article, j'ouvre un nouveau fichier dans mon dossier 
 }}}
 
 Ici le contenu de mon article
-
 ```
 Après écriture, je pousse l'article sur le git.
 
