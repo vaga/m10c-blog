@@ -7,7 +7,7 @@ theme = "m10c"
   # Author
   author = "Fabien CASTERS"
   # Description
-  description = "Bonjour ! Je suis devops chez +Simple et je suis passionne par l'open source et les nouvelles technologies."
+  description = "I write code and I take care about my privacy // Devops @ +Simple // Co-founder @ Owaka // Golang lover // Open source enthusiast"
   # Social links
   [[params.social]]
     name = "github"
