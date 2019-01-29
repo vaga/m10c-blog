@@ -1,8 +1,8 @@
----
-title: "Le premier article, c'est quoi ce blog ?"
-date: "2014-07-02"
-tags: ["bienvenue", "nodejs", "nginx", "web"]
----
++++
+title = "Le premier article, c'est quoi ce blog ?"
+date = "2014-07-02"
+tags = ["bienvenue", "nodejs", "nginx", "web"]
++++
 
 Depuis 2 ou 3 ans, j'ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.
 

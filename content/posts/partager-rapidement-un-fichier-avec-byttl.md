@@ -1,8 +1,8 @@
----
-title: "Partager rapidement un fichier avec byt.tl"
-date: "2015-12-24"
-tags: ["golang", "web", "service", "docker"]
----
++++
+title = "Partager rapidement un fichier avec byt.tl"
+date = "2015-12-24"
+tags = ["golang", "web", "service", "docker"]
++++
 
 Je fais un petit article pour présenter un service que j'ai réalisé avec [Wayt](http://wayt.me).
 
