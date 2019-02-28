@@ -20,7 +20,7 @@ Il est difficile de faire plus simple.
 Je voulais en parler car je viens de refaire ce blog avec ce générateur.
 J'ai tellement apprécié l'outil et la documentation que j'en ai profité pour partager mon thème avec la communauté.
 
-Quelques liens pour plus de details :
+Quelques liens pour plus de détails :
 
 - [Site officiel](https://gohugo.io)
 - [Github du projet](https://github.com/gohugoio/hugo)
@@ -40,7 +40,7 @@ Cependant, c'est encore en alpha, donc, wait & see.
 
 Dernière remarque, Grafana a commencé par l'intégration de Loki avec Kubernetes mais ils prévoient d'autres supports.
 
-Quelques liens pour plus de details :
+Quelques liens pour plus de détails :
 
 - [Github du projet](https://github.com/grafana/loki)
 - [Loki Design Document](https://docs.google.com/document/d/11tjK_lvp1-SVsFZjgOTr1vV3-q6vBAsZYIQ5ZeYBkyM/view)

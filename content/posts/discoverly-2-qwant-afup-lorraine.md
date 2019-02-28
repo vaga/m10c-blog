@@ -4,7 +4,7 @@ date = "2019-02-26"
 tags = ["discoverly", "qwant", "afup", "privacy", "meetup"]
 +++
 
-C'est pas évident cette exercice d'écrire et de sortir un article par mois. Ca passe vite !  
+C'est pas évident cet exercice d'écrire et de sortir un article par mois. Ca passe vite !  
 Voici donc le deuxième Discoverly, il parle de Qwant, de l'AFUP Lorraine et 3 liens que j'ai jugé intéressant à partager.
 
 ## Qwant
