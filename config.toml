@@ -10,11 +10,14 @@ theme = "m10c"
   description = "I write code and I take care about my privacy // Co-founder @ Owaka // Golang lover // Open source enthusiast"
   # Social links
   [[params.social]]
-    name = "github"
+    icon = "github"
+    name = "Github"
     url = "https://github.com/vaga"
   [[params.social]]
-    name = "twitter"
+    icon = "twitter"
+    name = "Twitter"
     url = "https://twitter.com/vaga_io"
   [[params.social]]
-    name = "linkedin"
+    icon = "linkedin"
+    name = "LinkedIn"
     url = "https://www.linkedin.com/in/fabien-casters/"
