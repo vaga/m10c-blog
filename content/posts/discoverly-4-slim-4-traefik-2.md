@@ -71,5 +71,3 @@ Quelques liens pour plus de détails :
 
 - [Projet : K3s Lightweight Kubernetes](https://k3s.io/)
 - [Thread Twitter : #ClavierFrançais](https://threadreaderapp.com/thread/1113079690472943617.html)
-
-*Fabien CASTERS*

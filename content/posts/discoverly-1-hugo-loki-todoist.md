@@ -71,5 +71,3 @@ Quelques liens pour plus de détails :
 
 - [Article : The illusion of agility](https://guntherverheyen.com/2019/01/07/the-illusion-of-agility-what-most-agile-transformations-end-up-delivering/)
 - [Article : Suicide social](https://page42.org/suicide-social/)
-
-*Fabien CASTERS*

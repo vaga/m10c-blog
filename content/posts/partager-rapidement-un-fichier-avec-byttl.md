@@ -23,6 +23,3 @@ docker run --name byt --restart=always -p 80:8080 -v /local/data:/data maxwayt/b
 ## Liens
 [Github - Byt.tl](http://github.com/byttl)  
 [Site web - Byt.tl](http://byt.tl)
-
-*Fabien Casters*
-

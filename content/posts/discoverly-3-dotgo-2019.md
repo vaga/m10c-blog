@@ -80,5 +80,3 @@ Quelques liens pour plus de détails :
 - [Back to Traefik 2.0](https://blog.containo.us/back-to-traefik-2-0-2f9aa17be305)
 - [Firefox Send](https://send.firefox.com/)
 - [Time to Play Fair (Spotify vs. Apple)](https://www.timetoplayfair.com/timeline/)
-
-*Fabien CASTERS*

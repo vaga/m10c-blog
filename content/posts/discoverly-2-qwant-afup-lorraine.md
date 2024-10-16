@@ -48,5 +48,3 @@ Quelques liens pour plus de détails :
 - [Article : Talk, then code](https://dave.cheney.net/2019/02/18/talk-then-code)
 - [Articles : HTTP/3 expliqué](https://http3-explained.haxx.se/fr/)
 - [Documentaire : Meeting Snowden de Flore Vasseur](http://www.meetingsnowden.com/)
-
-*Fabien CASTERS*

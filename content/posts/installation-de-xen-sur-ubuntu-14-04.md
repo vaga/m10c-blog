@@ -204,6 +204,3 @@ Cette idée vient de Maxime et c'est une très bonne idée. On ne se pose plus l
 [OVH : BridgeClient](http://guide.ovh.com/BridgeClient)  
 [Xen Project Best Practices](http://wiki.xenproject.org/wiki/Xen_Project_Best_Practices)  
 [Le twitter de Maxime](http://twitter.com/Max_Wayt)
-
-*Fabien Casters*
-
