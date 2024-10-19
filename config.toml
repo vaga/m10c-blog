@@ -10,14 +10,18 @@ theme = "m10c"
   description = "I write code and I take care about my privacy // Co-founder @ Owaka // Golang lover // Open source enthusiast"
   # Social links
   [[params.social]]
-    icon = "github"
+    icon = "brand-github"
     name = "Github"
     url = "https://github.com/vaga"
   [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/vaga_io"
+    icon = "brand-x"
+    name = "X"
+    url = "https://x.com/vaga_io"
   [[params.social]]
-    icon = "linkedin"
+    icon = "brand-bluesky"
+    name = "Bluesky"
+    url = "https://bsky.app/profile/vaga.io"
+  [[params.social]]
+    icon = "brand-linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/fabien-casters/"
